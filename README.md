@@ -1,13 +1,12 @@
-<h1 align="center">Hi 👋, I'm Gijs Schlief</h1>
-<h3 align="center">I am a Master student at Delft University of Technology. Currently doing a double masters in Mechanical Engineering and Systems and Control.</h3>
+<h1 align="center">About Me</h1>
+<h3 align="center">Hey! I am Gijs Schlief. I am a Master student at Delft University of Technology. Currently doing a double masters in Mechanical Engineering and Systems and Control.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gijsschlief&label=Profile%20views&color=0e75b6&style=flat" alt="gijsschlief" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gijsschlief" alt="gijsschlief" /></a> </p>
 
-- 🌱 I’m currently learning **Julia and Pytorch!**
-
-- 📫 To reach me mail: **gijsschlief@gmail.com**
+- 🌱 I’m currently learning Julia and improving my Pytorch skills!
+- 📫 To reach me you can email me at: gijsschlief@gmail.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
