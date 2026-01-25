@@ -1,8 +1,6 @@
 ## Gijs Schlief
 
-Recent graduate in Mechanical Engineering and Systems & Control at Delft University of Technology, with a strong focus on dynamic systems, control, and computational modelling.
-
-I am particularly interested in applying control theory, simulation, and machine learning to real-world engineering systems.
+Recent graduate in Mechanical Engineering and Systems & Control at Delft University of Technology, with a strong focus on dynamic systems, control, and computational modelling. I am particularly interested in applying control theory, simulation, and machine learning to real-world engineering systems.
 
 ---
 
