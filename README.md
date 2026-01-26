@@ -24,7 +24,8 @@ Recent graduate in Mechanical Engineering and Systems & Control at Delft Univers
 ### Selected Work
 > Repositories below showcase coursework, simulations, and applied projects in systems and control.
 
-- Solving the inverse bone remodelling problem with reinforcement learning: 
+- Solving the inverse bone remodelling problem with reinforcement learning
+- MPC-Based Optimisation of HIV Drug Treatment
 
 ---
 
